@@ -146,6 +146,8 @@ To install it system-wide (in linux), just type `make install` (`sudo` will be n
 
 We recommend to run `make test-install` after that, to ensure everything is fine!
 
+[![Run on Repl.it](https://repl.it/badge/github/optframe/optframe)](https://repl.it/github/optframe/optframe)
+
 ## Examples
 
 Interesting examples are available (see `Examples` folder):
